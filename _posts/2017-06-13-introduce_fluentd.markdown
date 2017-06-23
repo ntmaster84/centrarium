@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduce of Fluentd"
-date:   2017-06-13 08:43:59
+date:   2017-06-21
 author: Beom
 categories: Fluentd
 ---
