@@ -3,7 +3,7 @@ layout: post
 title:  "Hadoop Eco System 2.0"
 date:   2017-06-13 08:43:59
 author: Beom
-categories: Big_Data
+categories: Big_data
 ---
 
 ![[그림]하둡 에코시스템 2.0](https://github.com/ntmaster84/ntmaster84.github.io/blob/master/_posts/resource/hadoop_eco_2.0.jpg?raw=true)
