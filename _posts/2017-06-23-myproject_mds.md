@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Malware 탐지 엔진"
+title:  "Malware"
 date:   2017-06-34
 author: Beom
 categories: My_Project
