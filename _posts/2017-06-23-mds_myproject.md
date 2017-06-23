@@ -47,7 +47,6 @@ Work Thread는 파서와, 크롤링 스크립트 로 구성되며 크롤러는 P
 Work Thread에서 **수집한 데이터는 분석기 파일큐에 저장 되는데 이때 가장 한가한 분석기의 파일큐에 저장하도록 하여 각 분석기의 기아 상태를 예방한다.**  **2Depth부터 접근하는 URL들은 각각의 수집 속도가 다름으로 Seed URL에 설정된 Max Depth까지 모두 수집 될때 까지 기다릴 필요 없이 수집된 데이터는 즉시 분석하도록 분석 파일큐에 저장한다**.
 
 
-
 #### **< 분석기 아키텍쳐>**
 
 ![분석기 아키텍쳐](https://raw.githubusercontent.com/ntmaster84/ntmaster84.github.io/master/_posts/resource/Analyzer%20Diagram.png)
