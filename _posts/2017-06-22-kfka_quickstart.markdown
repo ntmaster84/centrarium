@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kfka Quickstart"
-date:   2017-06-22
+date:   2017-06-22 09:00:00
 author: Beom
 categories: Big_data
 ---

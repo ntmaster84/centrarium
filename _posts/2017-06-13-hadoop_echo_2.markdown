@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hadoop Eco System 2.0"
-date:   2017-06-13
+date:   2017-06-13 09:00:00
 author: Beom
 categories: Big_data
 ---

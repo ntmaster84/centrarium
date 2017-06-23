@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Centos Fluentd 설치"
-date:   2017-06-21
+date:   2017-06-21 09:00:00
 author: Beom
 categories: Fluentd
 ---
