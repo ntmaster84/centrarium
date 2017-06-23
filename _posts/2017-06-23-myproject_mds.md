@@ -11,7 +11,7 @@ categories: My_Project
 
 #### **<특징>**
 * 다중 모듈 구조로 컴파일이나 옵션 수정 없이 수집기와 분석기의 추가/삭제가 쉽다. (단순히 수집기나 분석기의 프로세스를 실행하거나 킬 하면된다.)
-
+ 
 * 파일 기반의 큐를 사용하여 큐에 대기중인 데이터가 많아도 유실 없이 처리가 가능하다. 분석기와 수집기 사이의 의존성 없이 데이터를 처리 할 수 있다. (수집기가 수집한 데이터는 아무 분석기에서나 처리 되어도 상관없다.)
 
 ![구성도](https://raw.githubusercontent.com/ntmaster84/ntmaster84.github.io/master/_posts/resource/mds.png)
