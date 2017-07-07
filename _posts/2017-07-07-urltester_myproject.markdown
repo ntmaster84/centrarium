@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[CasperJS] 로그인 테스트 자동화 Tool"
-date:   2017-07-07 09:00:00
+date:   2017-07-07 09:00:10
 author: Beom
 categories: Project
 ---
